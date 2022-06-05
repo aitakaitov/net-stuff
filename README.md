@@ -36,4 +36,8 @@ https://docs.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-sort-a-gridv
   <code>writer.Serialize(fs, Entities)</code>
   
 Tohle obalit do try-catch, catch nechat prázdnej
+  
+# ...
+  
+Zamyslet se jestli dělat edit a create v novým okně - dost otrava co se týče okna - nebo jestli to udělat vedle jako pár boxů a labelů + tlačítka na Update, Create New a Delete Selected. Možná to bude časově lepší - samotnej BE zabije půl hodiny určitě.
  
