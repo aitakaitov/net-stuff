@@ -37,6 +37,10 @@ https://docs.microsoft.com/en-us/dotnet/desktop/wpf/controls/how-to-sort-a-gridv
   
 Tohle obalit do try-catch, catch nechat prázdnej
   
+  
+# Notify
+Když je notify nad listem tak funguje create a delete - ale nefunguje Update, na to je potřeba mít Notify i nad každým tím objektem
+  
 # ...
   
 Zamyslet se jestli dělat edit a create v novým okně - dost otrava co se týče okna - nebo jestli to udělat vedle jako pár boxů a labelů + tlačítka na Update, Create New a Delete Selected. Možná to bude časově lepší - samotnej BE zabije půl hodiny určitě.
